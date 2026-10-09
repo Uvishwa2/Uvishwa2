@@ -47,5 +47,5 @@ LeetCode Problems Using Python
 HackerRank Problems
 
 Connect With Me
-LinkedIn
-GitHub
+https://linkedin.com/in/vishwanath-utkoor90
+https://github.com/Uvishwa2
